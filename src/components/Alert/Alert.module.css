@@ -1,0 +1,7 @@
+.alertWrap {
+    background-color: #c1c1c1bf;
+    color: black;
+    font-size: 40px;
+    display: flex;
+    justify-content: space-around;
+}
